@@ -13,7 +13,7 @@ function About() {
         nihil est, rerum dolores omnis beatae voluptatibus magnam quam harum
         dolor dolorem possimus explicabo at et iste assumenda eaque temporibus
         ad quas! A soluta sunt est? Tenetur ullam itaque reprehenderit quidem id
-        ipsum consectetur error earum, magni voluptatibus obcaecati! by shivam kumar
+        ipsum consectetur error earum, magni voluptatibus obcaecati! by shivam kumar jagatpur
       </div>
       <Imfunction />
     </>
